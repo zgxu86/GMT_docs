@@ -43,6 +43,7 @@ GMT 是地球科学最广泛使用的制图软件之一。
 
    intro/index
    install/index
+   migrating/index
    tutorial/index
    basis/index
    table/index

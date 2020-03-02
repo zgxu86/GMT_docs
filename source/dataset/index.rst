@@ -7,6 +7,6 @@
    overview
    gshhg
    dcw/index
-   earth_relief
+   earth-relief
    gadm/index
-   plate_boundaries/index
+   plate-boundaries/index
